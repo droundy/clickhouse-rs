@@ -3,7 +3,7 @@ name = "clickhouse-rs-cityhash-sys-other"
 version = "0.1.2"
 authors = ["mikhail <suharev7@gmail.com>"]
 license = "MIT"
-links = "clickhouse-rs"
+links = "clickhouse-rs-other"
 build = "build.rs"
 description = "Rust CityHash sys package for clickhouse-rs."
 
