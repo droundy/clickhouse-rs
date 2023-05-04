@@ -50,7 +50,7 @@ optional = true
 version = "1.6"
 optional = true
 
-[dependencies.clickhouse-rs-cityhash-sys]
+[dependencies.clickhouse-rs-cityhash-sys-other]
 path = "clickhouse-rs-cityhash-sys"
 version = "0.1.2"
 
